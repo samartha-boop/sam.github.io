@@ -1,4 +1,4 @@
-# sam_.github.io
+# sam.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
